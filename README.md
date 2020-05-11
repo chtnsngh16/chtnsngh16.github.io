@@ -1,2 +1,2 @@
-# chtnsngh16.io
+# chtnsngh16.github.io
 Web Development
